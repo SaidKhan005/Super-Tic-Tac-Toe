@@ -1,0 +1,4 @@
+## Task Source Attributions
+| Source  | Contribution                                                             | Location |
+|---------|--------------------------------------------------------------------------|----------|
+| Bing AI | I learnt how to create a mock request and response in Bottle for testing |      https://www.bing.com/search?q=setting+up+a+mock+environment+to+simulate+a+specific+HTTP+request+%28POST+in+this+case%29+with+predefined+form+data.+bottle+server&cvid=92f394b4e82541cda1a9fa74c4073dd8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQyMTRqMGo5qAIAsAIA&FORM=ANAB01&PC=EDGEESS&showconv=1    |
